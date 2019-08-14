@@ -1,0 +1,22 @@
+{
+  "name": "umi",
+  "version": "1.0.0",
+  "description": "plactice umi\r UMI项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bracelit/umi.git"
+  },
+  "author": "liyuanchuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bracelit/umi/issues"
+  },
+  "homepage": "https://github.com/bracelit/umi#readme",
+  "dependencies": {
+    "antd": "^3.21.4"
+  }
+}
